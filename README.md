@@ -15,6 +15,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm a self-taught web developer who loves solving complex problems and learning new programming languages.
+
+⚡ Fun fact: I'm a self-taught web developer who loves solving complex problems and learning new programming languages.(true)
 
 Thanks for visiting my profile! Explore my repositories for more information on my projects and contributions.
